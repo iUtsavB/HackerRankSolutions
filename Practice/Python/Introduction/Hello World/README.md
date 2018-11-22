@@ -2,27 +2,14 @@
 
 ## Problem Statement
 
+![Problem Statement Screenshot](https://github.com/iUtsavB/HackerRankSolutions/raw/master/Practice/Python/Introduction/Hello%20World/ps.png "Problem Statement Screenshot")
 
-Here is a sample line of code that can be executed in Python:
-```python
-print("Hello, World!")
-```
-You can just as easily store a string as a variable and then print it to stdout:
-```python
-my_string = "Hello, World!"
-print(my_string)
-```
-The above code will print Hello, World! on your screen. Try it yourself in the editor below!
+## Solution
 
-### Input Format
+[Open in Browser (raw)](https://raw.githubusercontent.com/iUtsavB/HackerRankSolutions/master/Practice/Python/Introduction/Hello%20World/HelloWorld.py)
+[Download .py file](https://git.utsavb.me/HackerRankSolutions/blob/master/Practice/Python/Introduction/Hello%20World/HelloWorld.py)
 
-You do not need to read any input in this challenge.
+## Test case Result
 
-### Output Format
-
-Print ```Hello, World! ```to stdout.
-
-### Sample Output 0
-```
-Hello, World!
-```
+1 out of 1 passed after running the code
+1 out of 1 passed after submitting the code
