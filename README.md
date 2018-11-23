@@ -19,7 +19,8 @@
 # Solutions
 ### Language Proficiency - Python
 **Introduction**
+
 |Problem                                    |Python3|
 |:------------------------------------------|:------:|
-|[Say "Hello, World!" With Python](#)        |✓       |
-|[Arithmetic Operators](#)                   |✓       |
+|[Say "Hello, World!" With Python](#)       |✓       |
+|[Arithmetic Operators](#)                  |✓       |
