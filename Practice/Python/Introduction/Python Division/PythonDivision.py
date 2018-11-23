@@ -20,7 +20,7 @@
 #   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #   SOFTWARE.
 #
-#   Created on 11/23/2018, 7:12:09 PM
+#   Created on 11/23/2018, 7:12:42 PM
 
 #   @author: Utsav Bhardwaj (https://twitter.com/iUtsavB)
 
@@ -29,6 +29,5 @@
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
-    print(a+b)
-    print(a-b)
-    print(a*b)
+    print(a//b)
+    print(a/b)

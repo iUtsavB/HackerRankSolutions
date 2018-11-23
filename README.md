@@ -20,7 +20,8 @@
 ### Language Proficiency - Python
 **Introduction**
 
-|Problem                                    |Python3|
-|:------------------------------------------|:------:|
-|[Say "Hello, World!" With Python](./Practice/Python/Introduction/Arithmetic%20Operators)       |✓       |
-|[Arithmetic Operators](#)                  |✓       |
+|Problem   |Python3 |
+|:---------|:------:|
+|[Say "Hello, World!" With Python](./Practice/Python/Introduction/Hello%20World)|✓|
+|[Arithmetic Operators](./Practice/Python/Introduction/Arithmetic%20Operators)|✓|
+|[Python: Division](./Practice/Python/Introduction/Python%20Division)|✓|
