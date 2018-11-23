@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/Problems%20Solved-2-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Python-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-23/11/2018-brightgreen.svg">
-	<img src="https://img.shields.io/apm/l/:package.svg">
+	<img src="https://img.shields.io/github/license/mashape/apistatus.svg">
 </p>
 
 # Solutions
