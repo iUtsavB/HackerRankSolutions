@@ -8,7 +8,7 @@
 
 [Open in Browser (raw)](https://raw.githubusercontent.com/iUtsavB/HackerRankSolutions/master/Practice/Python/Introduction/Hello%20World/HelloWorld.py)
 
-[Download .py file](https://git.utsavb.me/HackerRankSolutions/Practice/Python/Introduction/Hello%20World/HelloWorld.py)
+[Download .py file](HelloWorld.py)
 
 ## Test case Result
 
