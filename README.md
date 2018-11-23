@@ -22,5 +22,5 @@
 
 |Problem                                    |Python3|
 |:------------------------------------------|:------:|
-|[Say "Hello, World!" With Python](#)       |✓       |
+|[Say "Hello, World!" With Python](./Practice/Python/Introduction/Arithmetic%20Operators)       |✓       |
 |[Arithmetic Operators](#)                  |✓       |
